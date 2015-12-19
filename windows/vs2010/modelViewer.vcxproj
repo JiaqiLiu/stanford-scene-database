@@ -39,6 +39,9 @@
     <ClInclude Include="..\..\common\Vec3f.h" />
     <ClInclude Include="..\..\modelViewer\modelViewer.h" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{F292308A-873D-41FB-A2FE-DFA78FF5FB26}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>

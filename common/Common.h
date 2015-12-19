@@ -2,6 +2,9 @@
 // Common.h
 //
 
+// Jiaqi:
+// By using this file, it is more clear and time-saving. 
+
 #ifndef __COMMON_H
 #define __COMMON_H
 

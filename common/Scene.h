@@ -2,6 +2,11 @@
 // Scene.h
 //
 
+// Jiaqi:
+// In one scene, there are several models. Here they use ModelInstance to record them.
+// More importantly, they not only store all the models in a vector. 
+// Also, they store those models hierachically. 
+
 #include "Common.h"
 
 class Scene

@@ -2,6 +2,9 @@
 // Model.h
 //
 
+// Jiaqi: 
+// Store name, meshes of a model, and draw it self. 
+
 #include "Common.h"
 
 class Assets;

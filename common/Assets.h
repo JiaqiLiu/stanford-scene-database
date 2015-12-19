@@ -2,6 +2,12 @@
 // Assets.h
 //
 
+// Jiaqi: 
+// Responsibility: Get model and texture. Create them if they are not created. 
+// Actually, I think Assets and ModelDatabase can be combined into one. 
+// They all handle the 'assets' of this database, one is for real models, one is for entries.
+// But I think it's designed for high cohesion. 
+
 #include "Common.h"
 
 class Assets

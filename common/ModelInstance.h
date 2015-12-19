@@ -2,6 +2,11 @@
 // ModelInstance.h
 //
 
+// Jiaqi: 
+// Model is the base type. And here, ModelInstance is how we draw one model in a scene. 
+// That is, in scene there are position and related transform matrix. 
+// This is what ModelInstance exist for.
+
 #include "Common.h"
 
 class ModelInstance

@@ -11,6 +11,9 @@ struct ModelEntry
     std::vector<std::string> tags;
 };
 
+
+// Jiaqi:
+//   Store all the entries of model.
 class ModelDatabase
 {
 public:

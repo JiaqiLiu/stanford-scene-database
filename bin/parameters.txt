@@ -1,3 +1,5 @@
 databaseDirectory=../databaseSample
+# databaseDirectory=../../[siga12] Example-based Synthesis of 3D Object Arrangements (databaseFull)/
 defaultScene=scene00000
+# defaultScene=scene00001
 textQuery=@

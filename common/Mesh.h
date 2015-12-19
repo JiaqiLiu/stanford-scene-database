@@ -28,6 +28,9 @@ struct MeshMaterial
     float transparency;
 };
 
+
+// Jiaqi: 
+//   Just draw itself. 
 class Mesh
 {
 public:

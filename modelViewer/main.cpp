@@ -2,6 +2,9 @@
 // main.cpp
 //
 
+// Jiaqi:
+// In this example, they do not use Scene and ModelInstance. 
+
 #include "../common/Common.h"
 
 #include "modelViewer.h"
