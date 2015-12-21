@@ -20,6 +20,8 @@ Model::Model(const std::string &directory, const std::string &baseFilename, Asse
     //
     // Load materials
     //
+    // Jiaqi:
+    // Here, we can see that, they only use Kd and d and map_Kd infomation. No Ks, Ka, map_Ka and so on. 
     std::map<std::string, MeshMaterial> materials;
     MeshMaterial *activeMaterial = NULL;
     for(unsigned int lineIndex = 0; lineIndex < mtlLines.size(); lineIndex++)
